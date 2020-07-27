@@ -873,4 +873,5 @@ the documentation first:
  * examples : https://github.com/hootnot/oandapyV20-examples
  * Github: https://github.com/hootnot/oanda-api-v20 check the open and closed issues
 
+ * test add
 If you still have questions/issues you can open an *issue* on Gitub: https://github.com/hootnot/oanda-api-v20
